@@ -108,7 +108,7 @@ Sơ đồ Use Case mô tả các chức năng chính của hệ thống và mố
   `As a [role], I want [function], so that [benefit]`
 
 📎 Jira Board Screenshot: 
-![Jira Board](arterfact/JIRA-BOARD.png)
+![Jira Board](arterfact/JiraBoard.png)
 
 ---
 
@@ -123,3 +123,4 @@ Sơ đồ Use Case mô tả các chức năng chính của hệ thống và mố
 ## ✅ Kết luận
 
 Hệ thống Hotel Booking được thiết kế theo hướng hiện đại, đáp ứng đầy đủ các chức năng từ đặt phòng đến quản lý vận hành. Việc áp dụng UML và Agile Scrum giúp nhóm phát triển có quy trình rõ ràng, dễ mở rộng và bảo trì.
+
